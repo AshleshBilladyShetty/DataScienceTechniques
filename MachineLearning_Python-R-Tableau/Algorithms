@@ -1,0 +1,7 @@
+Dynamic programming:
+
+Tabulation : Bottom up Dynamic programming: Solve all sub problem to arrive at the solution for the bigger problem
+Memoization: Top Down Dynamic programming: (Recursion with memory): Solve From top down and solve only those sub problems that needs to be solved
+
+Problems where all the sub problems are not needed to be solved memoization dynamic programming performs better.
+https://www.geeksforgeeks.org/tabulation-vs-memoizatation/
